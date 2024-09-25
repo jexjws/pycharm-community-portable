@@ -1,4 +1,4 @@
-<p align="center"><a href="https://portapps.io/app/pycharm-community-portable/" target="_blank"><img width="100" src="https://github.com/portapps/pycharm-community-portable/blob/master/res/papp.png"></a></p>
+<p align="center"><a href="https://portapps.io/app/pycharm-community-portable/" target="_blank"><img width="100" src="./res/papp.png"></a></p>
 
 <p align="center">
   <a href="https://portapps.io/app/pycharm-community-portable/#download"><img src="https://img.shields.io/github/release/portapps/pycharm-community-portable.svg?style=flat-square" alt="GitHub release"></a>
