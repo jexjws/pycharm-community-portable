@@ -16,7 +16,7 @@ var (
 )
 
 const (
-	vmOptionsFile = "idea.vmoptions"
+	vmOptionsFile = "pycharm64.vmoptions"
 )
 
 func init() {
