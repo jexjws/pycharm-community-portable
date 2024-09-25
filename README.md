@@ -1,10 +1,10 @@
-<p align="center"><a href="https://portapps.io/app/intellij-idea-ultimate-portable/" target="_blank"><img width="100" src="https://github.com/portapps/intellij-idea-ultimate-portable/blob/master/res/papp.png"></a></p>
+<p align="center"><a href="https://portapps.io/app/pycharm-community-portable/" target="_blank"><img width="100" src="https://github.com/portapps/pycharm-community-portable/blob/master/res/papp.png"></a></p>
 
 <p align="center">
-  <a href="https://portapps.io/app/intellij-idea-ultimate-portable/#download"><img src="https://img.shields.io/github/release/portapps/intellij-idea-ultimate-portable.svg?style=flat-square" alt="GitHub release"></a>
-  <a href="https://portapps.io/app/intellij-idea-ultimate-portable/#download"><img src="https://img.shields.io/github/downloads/portapps/intellij-idea-ultimate-portable/total.svg?style=flat-square" alt="Total downloads"></a>
-  <a href="https://github.com/portapps/intellij-idea-ultimate-portable/actions?workflow=build"><img src="https://img.shields.io/github/actions/workflow/status/portapps/intellij-idea-ultimate-portable/build.yml?label=build&logo=github&style=flat-square" alt="Build Status"></a>
-  <a href="https://goreportcard.com/report/github.com/portapps/intellij-idea-ultimate-portable"><img src="https://goreportcard.com/badge/github.com/portapps/intellij-idea-ultimate-portable?style=flat-square" alt="Go Report"></a>
+  <a href="https://portapps.io/app/pycharm-community-portable/#download"><img src="https://img.shields.io/github/release/portapps/pycharm-community-portable.svg?style=flat-square" alt="GitHub release"></a>
+  <a href="https://portapps.io/app/pycharm-community-portable/#download"><img src="https://img.shields.io/github/downloads/portapps/pycharm-community-portable/total.svg?style=flat-square" alt="Total downloads"></a>
+  <a href="https://github.com/portapps/pycharm-community-portable/actions?workflow=build"><img src="https://img.shields.io/github/actions/workflow/status/portapps/pycharm-community-portable/build.yml?label=build&logo=github&style=flat-square" alt="Build Status"></a>
+  <a href="https://goreportcard.com/report/github.com/portapps/pycharm-community-portable"><img src="https://goreportcard.com/badge/github.com/portapps/pycharm-community-portable?style=flat-square" alt="Go Report"></a>
   <br /><a href="https://github.com/sponsors/crazy-max"><img src="https://img.shields.io/badge/sponsor-crazy--max-181717.svg?logo=github&style=flat-square" alt="Become a sponsor"></a>
   <a href="https://www.paypal.me/crazyws"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a>
 </p>
@@ -20,7 +20,7 @@ The name IntelliJ IDEA™ as well as related names, marks, emblems and images ar
 ## About
 
 IntelliJ IDEA™ Ultimate portable app made with 🚀 [Portapps](https://portapps.io).<br />
-Documentation and downloads can be found on https://portapps.io/app/intellij-idea-ultimate-portable/
+Documentation and downloads can be found on https://portapps.io/app/pycharm-community-portable/
 
 ## Contributing
 

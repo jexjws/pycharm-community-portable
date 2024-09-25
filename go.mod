@@ -1,4 +1,4 @@
-module github.com/portapps/intellij-idea-ultimate-portable
+module github.com/portapps/pycharm-community-portable
 
 go 1.21
 

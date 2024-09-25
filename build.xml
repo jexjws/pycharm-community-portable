@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="intellij-idea-ultimate" basedir=".">
+<project name="pycharm-community" basedir=".">
 
-  <dirname property="app.basedir" file="${ant.file.intellij-idea-ultimate}"/>
+  <dirname property="app.basedir" file="${ant.file.pycharm-community}"/>
   <property name="build.properties" value="${app.basedir}/build.properties"/>
   <property file="${build.properties}"/>
 

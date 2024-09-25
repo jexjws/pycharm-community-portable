@@ -23,14 +23,14 @@ func init() {
 	var err error
 
 	// Init app
-	if app, err = portapps.New("intellij-idea-ultimate-portable", "IntelliJ IDEA Ultimate"); err != nil {
+	if app, err = portapps.New("pycharm-community-portable", "PyCharm Community Edition"); err != nil {
 		log.Fatal().Err(err).Msg("Cannot initialize application. See log file for more info.")
 	}
 }
 
 func main() {
-	ideaExe := "idea64.exe"
-	ideaVmOptionsFile := "idea64.exe.vmoptions"
+	ideaExe := "pycharm64.exe"
+	ideaVmOptionsFile := "pycharm64.exe.vmoptions"
 
 	utl.CreateFolder(app.DataPath)
 	app.Process = utl.PathJoin(app.AppPath, "bin", ideaExe)
@@ -48,11 +48,11 @@ idea.log.path={{ DATA_PATH }}/log`, "{{ DATA_PATH }}", utl.FormatUnixPath(app.Da
 		log.Fatal().Err(err).Msg("Cannot write idea.properties")
 	}
 
-	// https://www.jetbrains.com/help/idea/tuning-intellij-idea.html#configure-platform-properties
-	os.Setenv("IDEA_PROPERTIES", ideaPropPath)
+	// https://www.jetbrains.com/help/pycharm/tuning-the-ide.html#configure-platform-properties
+	os.Setenv("PYCHARM_PROPERTIES", ideaPropPath)
 
-	// https://www.jetbrains.com/help/idea/tuning-the-ide.html#configure-jvm-options
-	os.Setenv("IDEA_VM_OPTIONS", utl.PathJoin(app.DataPath, vmOptionsFile))
+	// https://www.jetbrains.com/help/pycharm/tuning-the-ide.html#configure-jvm-options
+	os.Setenv("PYCHARM_VM_OPTIONS", utl.PathJoin(app.DataPath, vmOptionsFile))
 	if !utl.Exists(utl.PathJoin(app.DataPath, vmOptionsFile)) {
 		utl.CopyFile(utl.PathJoin(app.AppPath, "bin", ideaVmOptionsFile), utl.PathJoin(app.DataPath, vmOptionsFile))
 	} else {
