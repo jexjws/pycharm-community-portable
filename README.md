@@ -11,16 +11,18 @@
 
 ## Notice of Non-Affiliation and Disclaimer
 
-Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with IntelliJ IDEA™, or any of its subsidiaries or its affiliates.
+Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with PyCharm™, or any of its subsidiaries or its affiliates.
 
-The official IntelliJ IDEA™ website can be found at https://www.jetbrains.com.
+The official PyCharm™ website can be found at https://www.jetbrains.com/pycharm.
 
-The name IntelliJ IDEA™ as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+The name PyCharm™ as well as related names, marks, emblems and images are registered trademarks of their respective owners.
 
 ## About
 
-IntelliJ IDEA™ Ultimate portable app made with 🚀 [Portapps](https://portapps.io).<br />
+PyCharm™ Community portable app made with 🚀 [Portapps](https://portapps.io).<br />
 Documentation and downloads can be found on https://portapps.io/app/pycharm-community-portable/
+
+**Note:** This project is forked and modified from [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable).
 
 ## Contributing
 
